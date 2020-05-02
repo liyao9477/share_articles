@@ -1,0 +1,6 @@
+site_name: Articles
+nav:
+    - Home: index.md
+    - Quora: quora.md
+    - Freebooks: getfreebooks.md
+theme: readthedocs
